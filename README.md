@@ -1,4 +1,4 @@
-# Project.Iac_Terraform_Resources_Deployment
+# Terraform # AWS #Iac(Infrastructure as code)
 This project is designed for Deploying multiple Resources on AWS cloud by Terraform (InfraStructure as a code technology)
 
 We will maintain State file of Terraform at remote location.Preferably at S3 Location ( this S3 bucket must exist before this Project)
